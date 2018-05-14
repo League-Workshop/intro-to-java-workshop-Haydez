@@ -56,7 +56,7 @@ public class ScaryMaze extends JPanel implements Runnable, MouseMotionListener {
 				// call the scare method
 		
 		//13. If the mouse is on the end color
-		int endColor = -16450293;
+		int endColor = -16255992;
 				
 				if (mouseColor == endColor) {
 					showScaryImage("you did a do.png");
